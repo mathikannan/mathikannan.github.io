@@ -6,7 +6,7 @@
     color: violet;
 
     /* set the text color to blue here */
-    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    text-decoration: none; /* This means we do not want hyperlinks to be underlned */
   }
 
   a:hover {
