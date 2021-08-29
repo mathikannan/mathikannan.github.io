@@ -3,14 +3,14 @@
 /* Text inside these asterisks and slashes are comments for human */
 
   a {
-    color: violet;
+    color: blue;
 
     /* set the text color to blue here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlned */
   }
 
   a:hover {
-    color: violet;
+    color: red;
     /* set the text color to red here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
